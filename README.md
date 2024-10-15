@@ -1,7 +1,7 @@
 <!-- Short Introduction -->
 <h2 align="left">Hey, I'm Nihal Chaudhary <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 <h3 align="center">Python developer and  Machine learning engineer</h3>
-<p>👨🏻‍💻Hello I'm Nihal Chaudhary,Machine Learning and Data Science enthusiast,and contributor at various Machine Learning, Deep Learning and Generative AI libraries/Projects like Sktime ,Langchain and many more. I'm a Machine Learning engineer and Python developer. I'm always open to contribute to Open Source projects in meaningful ways and come up with innovative ideas.</p>
+<p>👨🏻‍💻Hello I'm Nihal Chaudhary,Machine Learning and Data Science enthusiast ,and contributor at various Machine Learning, Deep Learning and Generative AI libraries/Projects like Sktime ,Langchain and many more. I'm a Machine Learning engineer and Python developer. I'm always open to contribute to Open Source projects in meaningful ways and come up with innovative ideas.</p>
 <!-- Socials Links -->
 
 [![An image of @dehelaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dehelaan)](https://holopin.io/@dehelaan)
