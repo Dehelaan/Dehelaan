@@ -51,6 +51,6 @@
   <p align="center">
      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dehelaan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dehelaan&theme=tokyonight" alt="GitHub Streak" />
-    <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehelaan&theme=tokyonight" alt="top languages"/>
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehelaan&theme=tokyonight" alt="top languages"/>
   </p>
 </div>
