@@ -19,11 +19,11 @@
 </div>
 
 <!-- About Me-->
+<h2 align="left">About me👨‍💻</h2>
 <table align=center>
   <tr>
     <td>
       <ul>
-        <li> 🔭 I created <a href="https://deck.rocks">deck.rocks</a> (<a href="https://github.com/creatorrr/deck.rocks">repo</a>)
         <li> 🌱 I’m currently learning <b>Tensorflow, Transformers, LLM's</b>
         <li> 💬 Ask me about <i>python, numpy, matplotlib, sklearn</i>
         <li> 📫 How to reach me <a href="mailto:nihalchaudhary13112004@gmail.com">nihalchaudhary13112004@gmail.com</a>
