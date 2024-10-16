@@ -45,4 +45,16 @@
     <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
 </div>
+<!--
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dehelaan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div style="display: flex; flex-direction: row;">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dehelaan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dehelaan&theme=gotham&hide_border=false" />
+
+</div>
+
+ END -->
