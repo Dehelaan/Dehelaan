@@ -44,17 +44,12 @@
   <a href="https://hashnode.com/@Dehelaan" target="_blank">
     <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
+<!-- GitHub Stats -->
+<div>
+  <h2>Stats📈</h2>
+
+  <p align="center">
+     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dehelaan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dehelaan&theme=tokyonight" alt="GitHub Streak" />
+  </p>
 </div>
-<!--
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dehelaan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div style="display: flex; flex-direction: row;">
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dehelaan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
-
-<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dehelaan&theme=gotham&hide_border=false" />
-
-</div>
-
- END -->
